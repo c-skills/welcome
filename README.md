@@ -4,14 +4,17 @@
 </p>
 
 
+![board](https://github.com/stealth/bananajoe/blob/master/board.jpg)
 
 
-`c->skills research` is the company and financing arm of [my](https://github.com/stealth) [various](https://github.com/stealth/sshttp) [Open](https://github.com/stealth/opmsg) [Source](https://github.com/stealth/crash) [community](https://github.com/stealth/psc) [c-skills projects](https://github.com/stealth/libusipp) that I drive since more than 20 years.
+After decades of `c->skills` projects that brought the world quite some [0days and lot of Open Source projects](https://github.com/stealth), I founded my own company in 2021 - in order to offer code review and refactoring at the commercial level.
 
-`c->skills research` conducts Code Reviews for security and performance issues
-in Open Source or client-internal software written in
+`c->skills research` reviews and refactors code for security and performance issues
+in Open Source and client-internal software.
 
-* Assembly for x86 or ARM
+Security reviews are available for projects written in the following languages:
+
+* Assembly for x86, x64, ARM and ARM64
 * C
 * C++
 * Go
@@ -23,19 +26,28 @@ in Open Source or client-internal software written in
 * PHP
 * Python
 
+This includes review of cryptographic protocols and their implementation in code.
+
+Performance reviews and refactoring is available for `C, C++, Perl and Golang` projects. I have some example
+projects for high performance [webservers](https://github.com/stealth/lophttpd) and [parallel grep.](https://github.com/stealth/grab)
+
 Some of our clients allow us to share patches we made for them for Open Source
 projects. These will go into the [patches repo.](https://github.com/c-skills/patches)
 
-Occasionally, we are payed to reverse Android APKs or IoT firmware images for
-potential back-doors. At other times, we [sponsor code reviews](https://github.com/c-skills/tinkershell) for
-Open Source projects out of our own pocket. You can also ask us about sample audit reports
-that we created for some Open Source projects.
+`c->skills` also reverses Android APKs or Router and IoT firmware images for security issues and potential back-doors:
+
+
+![screenshot](https://github.com/stealth/bananajoe/blob/master/screenshot.jpg)
+
+
+At times, we [sponsor code reviews](https://github.com/c-skills/tinkershell) for Open Source projects out
+of our own pocket. You can also ask us about sample audit reports that we created for some Open Source projects.
 
 We have a strong background on *Linux*, *BSD* and everything that is *UNIX-ish*
-or `use Sockets;` - so we refactor or port existing code between distributions
+or `use Sockets;` - so we also refactor and port existing code between distributions
 or versions, if API changes throw compile-time errors at our clients.
 
-We do all Code Reviews fully remote. If you want to get in touch with us for a
+We do all code reviews fully remote. If you want to get in touch with us for a
 potential project, you can find the GPG key with contact address inside this repo.
 
 Imprint
