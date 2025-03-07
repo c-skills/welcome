@@ -19,7 +19,7 @@ Our core competencies and services are:
 
 
 * Code review for security and performance issues, including the cryptography, protocols and their implementation inside
-  your project. Creating of PoCs.
+  your project. Creating of PoCs. We are not just speaking C/C++. We also review Python, Golang, Node, Perl, ...
 
 * Code recycling: Refactoring, integrating or porting of software to different platforms, architectures or standards.
   E.g.:
